@@ -1,1 +1,1 @@
-# this is OAuth jwt with fetch login and signup api
+# this is  jwt token with fetch login and signup api
